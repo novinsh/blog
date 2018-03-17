@@ -16,7 +16,16 @@ This is my quick notes and overview on the talks:
 I put Andrej Kaparthy's talk in an agenda format:
 - Tesla autnomous cars are the largest group of robots employed in the world
 - Tesla, toward a sustainable, autonomous, and safe transporation
-- Tesla cars are giant animals of tiny brain mapping inpu
+- Tesla cars are giant animals of tiny brain mapping sensory inputs to the steering and acceleration
+- A progression towards software 2.0 from 1990 -- 2010
+- Software 2.0 a concept that Andrej has written on recently
+- From hard-automation to data-automation
+- Massaging the data instead of massaging the code (yet another software 2.0 implication)
+- Conundrums towards solving the autonomous car problem: rising philosophical questions 
+- Not just classes rare, but the scenarios rare (very odd incidents, few examples to learn from)
+- Idea of autonomous vehicle started in 1989 Pomerleau Alvinn; an autonomous land vehicle
+- Many machine vision practice obsolete now like sift, however SLAM, visual odometry, and many other would be around for now
+- How debug software 2.0: massaging the data! can have an interpretable stack that works 9% of the time or  
 
 
 
