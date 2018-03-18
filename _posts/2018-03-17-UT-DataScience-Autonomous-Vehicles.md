@@ -28,7 +28,8 @@ _Image taken by Dima Fishman_
  - My car is always charged, plugged on both ends (unique experience, compared with the era of going to gas station!)
  - graduated from numpy, using [PyTorch](http://pytorch.org) now!
 
-My remarks of this event:
+
+__My final remarks of this event__:
 - From hardcoded-automation to datacoded-automation
 - It is interesting that our technology evolves like a huge neural network. It has got multiple passes until it gets to work (its optimal point). Many ideas from 70s or 80s even before emerged, however took many year and now (after a couple of passes - like backward propagation Lol) it has gotten to its golden time applied and used many places
 - Starship is a very good example of automation as a real-world example. It demonstrates how capable we are in full automation in a real world scenario. 
