@@ -10,6 +10,7 @@ This is my quick notes and overview on the talks:
 - A presentation on legal matters and need for adapting new regulations to the new technologies.
 
 ![Andrej Karpathy at UT DataScience Talk]({{site.baseurl}}/_posts/tambet_andrej.png)
+_Image taken by Dima Fishman_
 
 - And finally Andrej Kaparthy's talk that I put it into an agenda:
  - Tesla autnomous cars are the largest group of robots employed in the world
@@ -17,17 +18,19 @@ This is my quick notes and overview on the talks:
  - Tesla cars are giant animals of tiny brain mapping sensory inputs to the steering and acceleration
  - A progression towards software 2.0 from 1990 -- 2010
  - [software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35) a concept that Andrej has  written on recently
- - From hard-automation to data-automation
  - Massaging the data instead of massaging the code (yet another software 2.0 implication)
  - Conundrums towards solving the autonomous car problem: rising philosophical questions 
  - Not just classes rare, but the scenarios rare (very odd incidents, few examples to learn from)
  - Idea of autonomous vehicle started in 1989 Pomerleau Alvinn; an autonomous land vehicle
- - Many machine vision practice obsolete now like sift, however SLAM, visual odometry, and many other would be around for now
+ - Many machine vision practice obsolete now like SIFT, however SLAM/visual-odometry, and many other techniques would be around for now
  - How debug software 2.0: massaging the data! interpretable stack
- - Autnomous vehicles future progress: development of the infrastructure (i.e. induction lanes), smarter cars
- - My car is always charged, plugged on both ends
- - graduated from numpy, using [PyTorch](http://pytorch.org)
+ - Future progress of Autnomous vehicles : development of the infrastructure (i.e. induction lanes) + smarter cars
+ - My car is always charged, plugged on both ends (unique experience, compared with the era of going to gas station!)
+ - graduated from numpy, using [PyTorch](http://pytorch.org) now!
 
-
+My remarks of this event:
+- From hardcoded-automation to datacoded-automation
+- It is interesting that our technology evolves like a huge neural network. It has got multiple passes until it gets to work (its optimal point). Many ideas from 70s or 80s even before emerged, however took many year and now (after a couple of passes - like backward propagation Lol) it has gotten to its golden time applied and used many places
+- Starship is a very good example of automation as a real-world example. It demonstrates how capable we are in full automation in a real world scenario. 
 
 More pictures of the talks on [I+EE facebook page](https://www.facebook.com/pg/ITEE.CoE/photos/?tab=album&album_id=1744784275560578)!
