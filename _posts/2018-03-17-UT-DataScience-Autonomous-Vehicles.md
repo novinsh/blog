@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-On 14 March, 2018 we had one of the awesome data science events organized by the institute of computer science. This time topic was about autonomous vehicles, a hot and growing fields which benefits AI mechanisms more and more. The most interesting of all were the Andrej Karpathy's talk from Tesla.
+On 14 March, 2018 we had one of the awesome data science events organized by the institute of computer science. This time topic was about autonomous vehicles, a hot and growing field which benefits from AI  more and more. The most interesting of all were the Andrej Karpathy's talk from Tesla.
 
 This is my quick notes and overview on the talks:
 - [ISEAUTO](http://iseauto.ttu.ee/en/mainpage/) (TTÜ ja SILBERAUTO AS): self-driving car project of the Estonia - it looked like more as an autonomous minibus, AI-powered using ROS and ROS modules, mostly performed by students as their bachelor/master/phd thesis! 
