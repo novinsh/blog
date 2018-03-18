@@ -10,7 +10,7 @@ This is my quick notes and overview on the talks:
 - A presentation on legal matters and need for adapting new regulations to the new technologies.
 
 ![Andrej Karpathy at UT DataScience Talk](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/29216989_1690237631037151_5757942538696159897_n.jpg?oh=56fc53709cf544f208628ba3faf186c0&oe=5B3B0D9F)
-_Image taken by Dima Fishman_
+_Photo by [Dima Fishman](https://www.facebook.com/dima.fishman.3)_
 
 - And finally Andrej Kaparthy's talk that I put it into an agenda:
  - Tesla autnomous cars are the largest group of robots employed in the world
