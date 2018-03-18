@@ -31,7 +31,7 @@ _Photo by [Dima Fishman](https://www.facebook.com/dima.fishman.3)_
 
 
 ## My remarks
-- From hardcoded-automation to datacoded-automation
+- From hardcoded-automation to datacoded-automation (our new journey towards automation)
 - It is interesting that our technology evolves like a huge neural network. It has got multiple passes until it gets to work (its optimal point). Many ideas from 70s or 80s even before emerged, however took many year and now (after a couple of passes - like backward propagation Lol) it has gotten to its golden time applied and used many places -- neural networks are subject to this too
 - Starship is a very good example of automation as a real-world example. It demonstrates how capable we are in full automation in a real world scenario. 
 - Perhaps we to this day we are capable of 30% automation in our life and industry. Years to come are going to flourish the automation era
