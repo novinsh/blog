@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 On 14 March, 2018 we had one of the awesome data science events organized by the [institute of computer science](https://www.ut.ee/en/events/data-science-seminar-autonomous-vehicles). This time topic was about autonomous vehicles, a hot and growing field which benefits from AI  more and more. The most interesting of all were the Andrej Karpathy's talk from Tesla.
 
