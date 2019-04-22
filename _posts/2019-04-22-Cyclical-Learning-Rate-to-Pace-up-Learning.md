@@ -18,11 +18,13 @@ One of the elements that helps the learning process and make the transformation 
 Another entity worths to mention is the parameter(s) of the network also referred to as weights. Optimizer is the one that determins how much the parameters should change at the end of each learning process. In another sense, optimizer determins the evolution of the network parameters, and consequently the quality of learning. Another view to optimiz-ation(er) is the search view. This process could be thought of searching in the parameter space with local and "possibly" global optima.
 
 
-
 ## Going cyclical
+
 
 ## What's the right step size?
 
+
 ## What's the right boundary?
+
 
 ## Final word
