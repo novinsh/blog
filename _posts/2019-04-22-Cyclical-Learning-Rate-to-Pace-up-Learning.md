@@ -15,7 +15,7 @@ In a deep learning task we have bunch of data that we feed to a network (model) 
 
 One of the elements that helps the learning process and make the transformation successful is the optimizer. It could be thought of as a driver of a car that steers the direction, controls the gas, or stop paddles for the acceleration and even shifting gears for acceleration when necessary. This analogy is actually pretty much what optimizer is all about, but that would be for another blog post. For now let's stay focus on high level understanding or if you already know about all these you can move on more easily.
 
-Another entity worths of mention is the parameter(s) of network also referred to as weights. Optimizer is nothing more than a systematic approach to change the 
+Another entity worths to mention is the parameter(s) of the network also referred to as weights. Optimizer is nothing more than a function itself that takes in a history of previous parameters and together with some quantities that it tracks over time (its own parameters) and defines all those things.
 
 ## Going cyclical
 
@@ -24,4 +24,3 @@ Another entity worths of mention is the parameter(s) of network also referred to
 ## What's the right boundary?
 
 ## Final word
-
