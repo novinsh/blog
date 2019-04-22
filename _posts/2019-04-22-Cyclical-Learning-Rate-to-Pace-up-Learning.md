@@ -3,7 +3,7 @@ published: false
 ---
 ## Foreword
 
-Recently I had an assignment as part of the deep learning in data science course and I got fascinated by  a simple yet again practical idea that speeds up the learning process with a simple scheduling of the learning rate.
+Recently I had an assignment as part of the "deep learning in data science course" and I got fascinated by a simple yet again practical idea that speeds up the learning process with a simple scheduling of the learning rate.
 
 
 ![different optimizer](https://jhui.github.io/assets/dl/a1.gif)
@@ -15,7 +15,9 @@ In a deep learning task we have bunch of data that we feed to a network (model) 
 
 One of the elements that helps the learning process and make the transformation successful is the optimizer. It could be thought of as a driver of a car that steers the direction, controls the gas, or stop paddles for the acceleration and even shifting gears for acceleration when necessary. This analogy is actually pretty much what optimizer is all about, but that would be for another blog post. For now let's stay focus on high level understanding or if you already know about all these you can move on more easily.
 
-Another entity worths to mention is the parameter(s) of the network also referred to as weights. Optimizer is nothing more than a function itself that takes in a history of previous parameters and together with some quantities that it tracks over time (its own parameters) and defines all those things.
+Another entity worths to mention is the parameter(s) of the network also referred to as weights. Optimizer is the one that determins how much the parameters should change at the end of each learning process. In another sense, optimizer determins the evolution of the network parameters, and consequently the quality of learning. Another view to optimiz-ation(er) is the search view. This process could be thought of searching in the parameter space with local and "possibly" global optima.
+
+
 
 ## Going cyclical
 
